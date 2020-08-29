@@ -1,0 +1,1 @@
+web: gunicorn bresume.wsgi --log-file -
